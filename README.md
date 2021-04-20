@@ -2,19 +2,17 @@
 
 <h3>My Name is<a href="https://yashvarshney.herokuapp.com/"> Yash Varshney</a></h3>
 
-###### I am a Boy of Class 5
-
 I'm Yash from India, and I am an intermediate python programmer. I currently Working on Python Programming Language. I have an interest in Data Analysis, GUI FrameWorks, Full-Stack WebDevelopment etc.
 
 <img src="https://komarev.com/ghpvc/?username=Yash-Programmer&label=Profile%20views" alt="YashVarshney" />
 
-<a href="https://yashvarshney.herokuapp.com/"><img src="Img.gif" alt="Img" width="700"></a>
+<a href="https://yashvarshney.herokuapp.com/"><img src="img.jpg" alt="Img" width="700"></a>
 
 #### Skills: Python, Automation, VCS Work, Full-Stack-Web Development, GUI FrameWork(Tk), Django Web FrameWork.
 
 - 🔭 I’m currently working on Web Development with Python
 - 🌱 I’m currently learning Django, Python, HTML, CSS 
-- 📫 How to reach me: <a href="mailto:yash.gurukul12@gmail.com">E-mail</a>, <a href="https://www.reddit.com/user/Yash_Varshney">Reddit</a> or <a href="https://github.com/Yash-Varshney-Creativities/Yash-Varshney-Creativities/issues/new">Create a issue</a>
+- 📫 How to reach me: <a href="mailto:yash.gurukul12@gmail.com">E-mail</a>, <a href="https://www.reddit.com/user/Yash_Varshney">Reddit</a> or <a href="https://github.com/Yash-Programmer/Yash-Programmer/issues/new">Create a issue</a>
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-programmer&show_icons=true&theme=dark)
 <br>
