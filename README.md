@@ -14,7 +14,7 @@ I'm Yash from India, and I am an intermediate python programmer. I currently Wor
 - 🌱 I’m currently learning Django, Python, HTML, CSS 
 - 📫 How to reach me: <a href="mailto:yash.gurukul12@gmail.com">E-mail</a>, <a href="https://www.reddit.com/user/Yash_Varshney">Reddit</a> or <a href="https://github.com/Yash-Programmer/Yash-Programmer/issues/new">Create a issue</a>
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-programmer&show_icons=true&theme=dark)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-programmer&show_icons=true&theme=dark&count-private=true)
 <br>
 <br><br>
 
