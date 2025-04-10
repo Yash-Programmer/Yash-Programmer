@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Yash Varshney!
 
 💡 Tech Explorer | 💻 Student Innovator | 🌏 Impact Enthusiast  
-🎒 High Schooler | 🧠 Building cool things & learning every day
+🎒 School Student | 🧠 Building cool things & learning every day
 
 ---
 
