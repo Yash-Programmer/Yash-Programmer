@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Yash Varshney!
 
-💡 Tech Explorer | 💻 Student Innovator | 🌏 Impact Enthusiast  
-🎒 School Student | 🧠 Building cool things & learning every day
+Student @ Gurukul The School |💻Purpose-driven Young Technologist, 🌍Ambitious & Cause-Driven, 🧠Smart & Socially Driven, 💡Youthful & Visionary, 🌱 Climate Voice, 🤝Committed to Giving Back to Community
 
 ---
 
